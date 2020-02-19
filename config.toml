@@ -21,3 +21,8 @@ description = "blog"
 # Put all your custom variables here
 
 hyde_theme = "theme-base-0d"
+
+hyde_links = [
+    {url = "https://czoodle.cz/", name = "Czoodle.cz"},
+    {url = "https://github.com/jhavlin/", name = "GitHub"},
+]
