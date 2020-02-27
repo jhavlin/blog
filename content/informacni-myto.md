@@ -6,6 +6,10 @@ description = "Úvaha o tom, jestli nám může kryptografie nabídnout kompromi
 
 date = 2020-02-16
 
+
+[extra]
+og_image = "sha256.png"
+
 +++
 
 Nedávné zprávy o chystaném (a utajovaném) záměru evidovat průjezdy všech automobilů mýtnými branami vyvolaly pochopitelnou vlnu diskuzí o přiměřenosti tohoto opatření. Jeho odpůrci poukazovali na snadnou zneužitelnost takových dat, podle zastánců by bylo naopak nerozumné plýtvat takovými informacemi, které by byly jistě užitečné při vyšetřování nejednoho kriminálního činu.
