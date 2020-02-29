@@ -30,7 +30,7 @@ Něco podobného si ve skutečnosti nepřečteme z&nbsp;několika důvodů:
 - Algoritmy nemají žádný důvod dodržovat zákony robotiky.
 - Algoritmy mezi sebou nekomunikují zasíláním oběžníků.
 
-A to je docela škoda vzhledem k&nbsp;tomu, jaký tito tito aktéři bez morálky mají vliv. Ve své podstatě nejsou zlí ani dobří, pouze se slepě snaží co nejlépe plnit zadání nás, lidí.
+A to je docela škoda vzhledem k&nbsp;tomu, jaký tito aktéři bez morálky mají vliv. Ve své podstatě nejsou zlí ani dobří, pouze se slepě snaží co nejlépe plnit zadání nás, lidí.
 
 A to je nepříjemné v&nbsp;tom, že lidé žádný první zákon humanity nemají.
 
