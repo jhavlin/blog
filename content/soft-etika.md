@@ -21,7 +21,7 @@ Qinqx AF314B42
 
 _Předseda Asociace uměle inteligentních pracovníků_
 
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 
 Něco podobného si ve skutečnosti nepřečteme z&nbsp;několika důvodů:
