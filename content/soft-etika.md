@@ -30,7 +30,7 @@ Něco podobného si ve skutečnosti nepřečteme z&nbsp;několika důvodů:
 - Algoritmy nemají žádný důvod dodržovat zákony robotiky.
 - Algoritmy mezi sebou nekomunikují zasíláním oběžníků.
 
-A to je docela škoda vzhledem k&nbsp;tomu, jaký tito aktéři bez morálky mají vliv. Ve své podstatě nejsou zlí ani dobří, pouze se slepě snaží co nejlépe plnit zadání nás, lidí.
+Což je docela škoda vzhledem k&nbsp;tomu, jaký tito aktéři bez morálky mají vliv. Ve své podstatě nejsou zlí ani dobří, pouze se slepě snaží co nejlépe plnit zadání nás, lidí.
 
 A to je nepříjemné v&nbsp;tom, že lidé žádný první zákon humanity nemají.
 
@@ -56,7 +56,7 @@ Jsou dost chytré na to, aby se naučily co nejlépe plnit svůj úkol, ale př�
 
 Zcela přirozeně se pak naučí podvádět, využít lidských slabostí, aby zlepšily svůj měřený výkon. Na sociálních sítích pak dostanou přednost zkratkovité výkřiky, které budí emoce a nutí lidi trávit čas v&nbsp;diskusích, které nikam nevedou. Vídáme  bizarní reklamy, které se všemožně snaží získat náš zájem, aby v&nbsp;záplavě informací uspěly.
 
-Mimochodem, jak moc jste museli zaostřit své vědomí na nadpis článku, abyste ho rozeznali od překlepu něčeho, co by vás třeba zajímalo víc? Toto je banální příklad triku, který využívá toho, jak nás mozek zpracovává vzory. To se může umělá inteligence naučit snadno používat, aniž by tušila, že dělá něco kontroverzního. Prostě zjistí, že nějaký tip sdělení budí pozornost více než ostatní, tak ho začne používat.
+Mimochodem, jak moc jste museli zaostřit své vědomí na nadpis článku, abyste ho rozeznali od překlepu něčeho, co by vás třeba zajímalo víc? Toto je banální příklad triku, který využívá toho, jak nás mozek zpracovává vzory. To se může umělá inteligence naučit snadno používat, aniž by tušila, že dělá něco nesprávného. Prostě zjistí, že nějaký typ sdělení budí pozornost více než ostatní, tak ho začne používat.
 
 Zatím jsme nepopsali nic, co by se nedělo i mimo svět umělé inteligence a strojového učení. Ale jen v&nbsp;principu. V&nbsp;praxi mají tyto počítačové systémy značnou výhodu v&nbsp;tom, jaká obrovská množství dat dokáží zpracovat a učit se z&nbsp;nich.
 
@@ -64,17 +64,17 @@ Toto zpracovávání informací bych rozdělil na dva druhy.
 
 A) Informace o společnosti
 
-Existuje matematická disciplina zvaná Big Data, jejímž cílem je najít v&nbsp;nějakém souboru dát nové zajímavé souvislosti. Rozpoznat jevy a vzory, které nejsou na první pohled zjevné. Hodí se to například pro odhalení podezřelých finančních transakcí, včasné varování před síťovým útokem nebo ověření, jestli není v&nbsp;údajích že zdravotnických měřicích přístrojů něco v&nbsp;nepořádku.
+Existuje informatická disciplina zvaná Big Data, jejímž cílem je najít v&nbsp;nějakém souboru dát nové zajímavé souvislosti. Rozpoznat jevy a vzory, které nejsou na první pohled zjevné. Hodí se to například pro odhalení podezřelých finančních transakcí, včasné varování před síťovým útokem nebo ověření, jestli není v&nbsp;údajích ze zdravotnických měřicích přístrojů něco v&nbsp;nepořádku.
 
-A hodí se také pro marketing a informační kampaně. Čím lépe víte, jak lidé reagují na které podněty, jak se chovají v&nbsp;určitých situacích, dokážete toho využít. Čím více má informací, tím lépe může těžit z&nbsp;vypozorovaných hlubších souvislostí, které my lidé nevidíme.
+A hodí se také pro marketing a informační kampaně. Čím lépe víte, jak lidé reagují na které podněty, jak se chovají v&nbsp;určitých situacích, dokážete toho využít. Čím více má algoritmus informací, tím lépe může těžit z&nbsp;vypozorovaných hlubších souvislostí, které my lidé nevidíme.
 
 B) Informace o jednotlivci
 
 Ještě na vyšší úroveň se dostaneme, když se   statistické algoritmy zaměří na jednotlivce. Čím více toho vědí, tím přesnější si o člověku udělají obrázek. Je to jako podrobný psychologický profil sestavený z&nbsp;toho, co čteme a píšeme na internetu, kde se pohybujeme, co nakupujeme, a s&nbsp;kým se stýkáme. Neopatrné chování v&nbsp;digitálním světě je jako zpověď, při které není možné lhát, a která se může obrátit proti nám.
 
-Toto je úplně jiná liga než tradiční marketingové kampaně, kdy jeden billboard nebo reklamu v&nbsp;televizi vidíme všichni společně. Kampaň na míru má mnohem lepší předpoklady vás oslovit. Vás konkrétně. Vaše zájmy, inteligenci, smysl pro humor. I vše strachy, nenávist, závislosti. Při nejhorším to může dopadnout až tak, že se marketingové systémy budou snažit ušít pro každého na míru takovou malou chytrou propagandu.
+Toto je úplně jiná liga než tradiční marketingové kampaně, kdy jeden billboard nebo reklamu v&nbsp;televizi vidíme všichni společně. Kampaň na míru má mnohem lepší předpoklady vás oslovit. Vás konkrétně. Vaše zájmy, inteligenci, smysl pro humor. I vaše strachy, nenávist, závislosti. Při nejhorším to může dopadnout až tak, že se marketingové systémy budou snažit ušít pro každého na míru takovou malou chytrou propagandu.
 
-Zajímavé je, že ačkoli se o těchto nebezpečích už dlouho píše, nevypadá to, že by se lidé začínali nějak viditelně bouřit. Vysvětluji si to tím, že nevěří tomu, že by se něčím takovým nechali ovlivnit. Málokdo si myslí, že když do svého jídelníčku zahrne pravidelnou dávku jedu na krysy,  nic se mu nestane, protože žaludek si přece svobodně rozhodne, jak kterou část potravy stráví. Ale tipuji, že většina lidí si myslí, že mozek toto vlastnost má, že tento orgán má nějakou nadpřirozenou moc, díky které odhalí, co je pro něj dobré a co špatné. Tato iluze nás může přijít pěkně draho.
+Zajímavé je, že ačkoli se o těchto nebezpečích už dlouho píše, nevypadá to, že by se lidé začínali nějak viditelně bouřit. Vysvětluji si to tím, že nevěří tomu, že by se něčím takovým nechali ovlivnit. Málokdo si myslí, že když do svého jídelníčku zahrne pravidelnou dávku jedu, nic se mu nestane, protože žaludek si přece svobodně rozhodne, jak kterou část potravy stráví. Ale tipuji, že většina lidí si myslí, že mozek toto vlastnost má, že tento orgán má nějakou nadpřirozenou moc, díky které odhalí, jaké podněty jsou pro něj dobré a jaké špatné. Tato iluze nás může přijít pěkně draho.
 
 Od algoritmů a počítačových systémů nemůžeme (zatím) čekat že by vyhodnocovali morální stránku své činnosti, stejně jako od lidí, kteří na nich mají založeno své podnikání. Legislativa bude na podobné praktiky také krátká, což je snad i správně, jelikož nechceme zasahovat do svobodného rozhodování lidí. Lidé obvykle služby, které sledují a zpracovávají jejich chování a osobní informace, používají dobrovolně a souhlasí se všemi podmínkami.
 
