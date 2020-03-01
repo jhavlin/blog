@@ -62,6 +62,8 @@ Zatím jsme nepopsali nic, co by se nedělo i mimo svět umělé inteligence a s
 
 Toto zpracovávání informací bych rozdělil na dva druhy.
 
+----
+
 A) Informace o společnosti
 
 Existuje informatická disciplina zvaná Big Data, jejímž cílem je najít v&nbsp;nějakém souboru dát nové zajímavé souvislosti. Rozpoznat jevy a vzory, které nejsou na první pohled zjevné. Hodí se to například pro odhalení podezřelých finančních transakcí, včasné varování před síťovým útokem nebo ověření, jestli není v&nbsp;údajích ze zdravotnických měřicích přístrojů něco v&nbsp;nepořádku.
@@ -73,6 +75,8 @@ B) Informace o jednotlivci
 Ještě na vyšší úroveň se dostaneme, když se   statistické algoritmy zaměří na jednotlivce. Čím více toho vědí, tím přesnější si o člověku udělají obrázek. Je to jako podrobný psychologický profil sestavený z&nbsp;toho, co čteme a píšeme na internetu, kde se pohybujeme, co nakupujeme, a s&nbsp;kým se stýkáme. Neopatrné chování v&nbsp;digitálním světě je jako zpověď, při které není možné lhát, a která se může obrátit proti nám.
 
 Toto je úplně jiná liga než tradiční marketingové kampaně, kdy jeden billboard nebo reklamu v&nbsp;televizi vidíme všichni společně. Kampaň na míru má mnohem lepší předpoklady vás oslovit. Vás konkrétně. Vaše zájmy, inteligenci, smysl pro humor. I vaše strachy, nenávist, závislosti. Při nejhorším to může dopadnout až tak, že se marketingové systémy budou snažit ušít pro každého na míru takovou malou chytrou propagandu.
+
+----
 
 Zajímavé je, že ačkoli se o těchto nebezpečích už dlouho píše, nevypadá to, že by se lidé začínali nějak viditelně bouřit. Vysvětluji si to tím, že nevěří tomu, že by se něčím takovým nechali ovlivnit. Málokdo si myslí, že když do svého jídelníčku zahrne pravidelnou dávku jedu, nic se mu nestane, protože žaludek si přece svobodně rozhodne, jak kterou část potravy stráví. Ale tipuji, že většina lidí si myslí, že mozek toto vlastnost má, že tento orgán má nějakou nadpřirozenou moc, díky které odhalí, jaké podněty jsou pro něj dobré a jaké špatné. Tato iluze nás může přijít pěkně draho.
 
