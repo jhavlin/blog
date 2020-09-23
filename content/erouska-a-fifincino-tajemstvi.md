@@ -12,6 +12,10 @@ og_image = "facemasksecret.png"
 
 +++
 
+__Důležité:__ Tento text pojednává o první a již zastaralé verzi aplikace eRouška. Druhá verze funguje již značně odlišně.
+
+----
+
 Po zvážení rizik jsem začal používat aplikaci <a href="https://erouska.cz/" target="_new">eRouška</a>.
 Tady jsou postřehy, závěry a náměty.
 
