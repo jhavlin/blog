@@ -73,7 +73,7 @@ Při presenční volbě bude povinné, nikoliv jen možné, vzít si kompletní 
 
 **Ale:**
 
-Technologický vývoj pokročil a není těžké (technicky, ne morálně a fyzicky) někomu umístit na oděv nebo do šperků umístit záznamové zařízení, díky kterému budeme moci později zkontrolovat, jak volil, a případně trestat.
+Technologický vývoj pokročil a není těžké (technicky, ne morálně a fyzicky) někomu na oděv nebo do šperků umístit záznamové zařízení, díky kterému budeme moci později zkontrolovat, jak volil(a), a případně trestat.
 
 **Opatření:**
 
