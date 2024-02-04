@@ -6,6 +6,8 @@ description = "Úvaha o tom, jestli nám může kryptografie nabídnout kompromi
 
 date = 2020-02-16
 
+weight = 1
+
 
 [extra]
 og_image = "sha256.png"

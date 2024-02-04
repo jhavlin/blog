@@ -6,6 +6,8 @@ description = "Úvaha o pojetí spravedlnosti"
 
 date = 2020-08-23
 
+weight = 4
+
 +++
 
 _Definice:_ Spravedlnost je princip rovného zacházení; vlastnost prostředí, kde platí stejná pravidla pro všechny.

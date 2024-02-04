@@ -6,6 +6,8 @@ description = "Proč s lidskou přirozeností nakládat opatrně"
 
 date = 2020-02-29
 
+weight = 2
+
 [extra]
 og_image = "puzzle.png"
 
