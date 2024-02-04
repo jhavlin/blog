@@ -48,7 +48,7 @@ Když se bude první spolubydlící po poštovní obálce shánět, bude mu ře�
 
 ## Příklad 4: Okrseček
 
-Paní X je ráda v kolektivu, který si dělá legraci z jisté části politické spektra a opovrhuje lidmi, kteří nechodí k volbám. Zastává tedy navenek stejné postoje. Bohužel je z malé vesnice s jediným volebním okrskem, ve kterém ale všichni voliči odevzdaly svůj hlas straně, která je onom kolektivu považována za nepřijatelnou.
+Paní X je ráda v kolektivu, který si dělá legraci z jisté části politické spektra a opovrhuje lidmi, kteří nechodí k volbám. Zastává tedy navenek stejné postoje. Bohužel je z malé vesnice s jediným volebním okrskem, ve kterém ale všichni voliči odevzdali svůj hlas straně, která je v onom kolektivu považována za nepřijatelnou.
 
 Nyní může paní X jen doufat, že se nikdo u jejích přátel nebude přehnaně pídit po podrobných výsledcích, aby nebylo její pokrytectví odhaleno.
 
