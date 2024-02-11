@@ -21,7 +21,7 @@ Volby do Poslanecké sněmovny, do Senátu, prezidenta a členů zastupitelstev 
 
 Jak se zdá, není úplně jasné, co to přesně znamená, že volby jsou tajné.
 
-Abychom se nám o tom lépe přemýšlelo, projděme si několik více či méně umělých scénářů.
+Aby se nám o tom lépe přemýšlelo, projděme si několik více či méně umělých scénářů.
 
 
 ## Příklad 1: Macho
@@ -125,7 +125,7 @@ Je zvláštní, že korespondenční volba budí epické vášně, zatímco zjev
 
 Zajistit tajnou volbu v tom nejpřísnějším a nejobecnějším smyslu je velmi obtížné a nákladné až nemožné.
 
-V prvních třech případech jsme se zaměřili na volební podvody spojené se zhoubnými mezilidskými vztahy, které by bylo lepší řešit na jiné úrovni než je volební systém. Snad nejsou příliš časté a ve zdravé společnosti budou čím dál vzácnějším jevem, doufejme.
+V prvních třech případech jsme se zaměřili na volební podvody spojené se zhoubnými mezilidskými vztahy, které by bylo lepší řešit na jiné úrovni, než je volební systém. Snad nejsou příliš časté a ve zdravé společnosti budou čím dál vzácnějším jevem, doufejme.
 
 Nějaký kousavější komentátor by mohl být v pokušení poukázat na to, že kdyby politická reprezentace skutečně jednala v zájmu svobodných a tajných voleb, zaměřila by se v první řadě na podporu vzdělání, rovnosti a potírání domácího násilí. Tedy na věci, které se shodou náhod tak nějak týkají třeba Istanbulské úmluvy.
 
